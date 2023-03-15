@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/White-Noise-App/static/css/main.a1e3ab2c.css",
+    "main.js": "/White-Noise-App/static/js/main.bc4b27f3.js",
+    "static/media/Gymnopedie.mp3": "/White-Noise-App/static/media/Gymnopedie.a75e5e214b03e18708d5.mp3",
+    "static/media/Bonfire.mp3": "/White-Noise-App/static/media/Bonfire.f3e8db3fe070fd9c98e8.mp3",
+    "static/media/Thunderstorm.mp3": "/White-Noise-App/static/media/Thunderstorm.ec31bfed88154fee33a2.mp3",
+    "static/media/Wind.mp3": "/White-Noise-App/static/media/Wind.89d27f7b86ee9370819d.mp3",
+    "static/media/Waterfall.mp3": "/White-Noise-App/static/media/Waterfall.703a46c3a9f34000f57d.mp3",
+    "static/media/Birds.mp3": "/White-Noise-App/static/media/Birds.5fb36af07ca6ca1277d6.mp3",
+    "static/media/Cicadas.mp3": "/White-Noise-App/static/media/Cicadas.c00bd21ad3cd2d633d68.mp3",
+    "static/media/River.mp3": "/White-Noise-App/static/media/River.ad86e4e643a7b480e708.mp3",
+    "static/media/Waves.mp3": "/White-Noise-App/static/media/Waves.3f4d0c6a6804b8f69ec2.mp3",
+    "static/media/Rain.mp3": "/White-Noise-App/static/media/Rain.8ab2d4707ef003f0565e.mp3",
+    "static/media/Crickets.mp3": "/White-Noise-App/static/media/Crickets.2feef8d4565ec0a02224.mp3",
+    "static/media/Frogs.mp3": "/White-Noise-App/static/media/Frogs.44945b3f98906d37c9e3.mp3",
+    "static/media/Waves-icon.svg": "/White-Noise-App/static/media/Waves-icon.e9d322699aa5fe55157d.svg",
+    "static/media/Wind-icon.svg": "/White-Noise-App/static/media/Wind-icon.9ba4335e59b7d4597be4.svg",
+    "static/media/Cicadas-icon.svg": "/White-Noise-App/static/media/Cicadas-icon.9ecfd7862831af314b03.svg",
+    "static/media/Frogs-icon.svg": "/White-Noise-App/static/media/Frogs-icon.dd30f87a9c66b7b5878c.svg",
+    "static/media/Rain-icon.svg": "/White-Noise-App/static/media/Rain-icon.e623bd18dd1d86219a3b.svg",
+    "static/media/River-icon.svg": "/White-Noise-App/static/media/River-icon.4705b42e8b7058e3fec6.svg",
+    "static/media/Waterfall-icon.svg": "/White-Noise-App/static/media/Waterfall-icon.81ebedde1800de6c7190.svg",
+    "static/media/Crickets-icon.svg": "/White-Noise-App/static/media/Crickets-icon.ea9dfba4943b5aaf2b44.svg",
+    "static/media/Bonfire-icon.svg": "/White-Noise-App/static/media/Bonfire-icon.bfa4f5b3423c4a2efb2b.svg",
+    "static/media/Thunderstorm-icon.svg": "/White-Noise-App/static/media/Thunderstorm-icon.baf5d742be11a1b56063.svg",
+    "static/media/Birds-icon.svg": "/White-Noise-App/static/media/Birds-icon.5c5050bff45a3132fac8.svg",
+    "static/media/Gymnopedie-icon.svg": "/White-Noise-App/static/media/Gymnopedie-icon.c168c153e6b85f48ead3.svg",
+    "static/media/x-icon.svg": "/White-Noise-App/static/media/x-icon.15c4951ab2b366d4a341b5bdf8c535a1.svg",
+    "static/media/garbage-bin-icon.svg": "/White-Noise-App/static/media/garbage-bin-icon.f2eeea1972fd6d040c50a8261fb56024.svg",
+    "index.html": "/White-Noise-App/index.html",
+    "static/media/arrow-icon.svg": "/White-Noise-App/static/media/arrow-icon.49e00223f2a295eb6b85c01746792121.svg",
+    "main.a1e3ab2c.css.map": "/White-Noise-App/static/css/main.a1e3ab2c.css.map",
+    "main.bc4b27f3.js.map": "/White-Noise-App/static/js/main.bc4b27f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e3ab2c.css",
+    "static/js/main.bc4b27f3.js"
+  ]
+}
